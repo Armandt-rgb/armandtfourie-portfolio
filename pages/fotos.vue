@@ -138,20 +138,20 @@ const images = ref([
     },
     {
         url: 'itallainfood.jpg',
-        title: 'Favourite Burger',
-        description: 'Beste burgers and fries',
+        title: 'Favourite Cuisine',
+        description: 'Mijn gunsteling soort eten.',
         category: 'Food'
     },
     {
         url: 'Roger-Federer-Olympics-scaled.jpg',
         title: 'Favourite Athlete',
-        description: 'Beste burgers and fries',
+        description: 'Mijn favoriete sportieve atleet.',
         category: 'Sport'
     },
     {
         url: 'rugby.webp',
         title: 'Favourite Sport',
-        description: 'Beste burgers and fries',
+        description: 'Mijn favoriet sport.',
         category: 'Sport'
     },
     // Add more images as needed...

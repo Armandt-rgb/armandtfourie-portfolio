@@ -396,8 +396,7 @@ const funFacts = [
 ]
 
 const socials = [
-    { name: 'GitHub', url: '#', icon: Github },
-    { name: 'LinkedIn', url: '#', icon: Linkedin },
-    { name: 'Email', url: 'mailto:email@example.com', icon: Mail }
+    { name: 'GitHub', url: 'https://github.com/Armandt-rgb', icon: Github },
+    { name: 'Email', url: 'mailto:115021@jvbcollege.nl', icon: Mail }
 ]
 </script>
