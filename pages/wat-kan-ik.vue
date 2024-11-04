@@ -97,7 +97,7 @@ const skillCategories = [
             { name: 'Geschiedenis', level: 90 },
             { name: 'Engels', level: 85 },
             { name: 'Afrikaans', level: 80 },
-            { name: 'React', level: 75 }
+            
         ]
     },
     {
@@ -124,10 +124,10 @@ const skillCategories = [
         title: 'Eten',
         icon: Brain,
         skills: [
-            { name: 'Teamwork', level: 95 },
-            { name: 'Communication', level: 90 },
-            { name: 'Problem Solving', level: 85 },
-            { name: 'Project Management', level: 80 }
+            { name: 'Burgers', level: 95 },
+            { name: 'Pasta', level: 90 },
+            { name: 'Lasagna', level: 85 },
+            { name: 'Friet', level: 80 }
         ]
     },
     {
@@ -145,9 +145,9 @@ const skillCategories = [
         icon: Laptop,
         skills: [
             { name: 'Mathematics', level: 100 },
-            { name: 'Analytics', level: 70 },
-            { name: 'Testing', level: 65 },
-            { name: 'Performance', level: 80 }
+            { name: 'Physics', level: 95 },
+            { name: 'Chemistry', level: 90 },
+            { name: 'Biology', level: 85 }
         ]
     }
 ]
