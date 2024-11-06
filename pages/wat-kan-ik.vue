@@ -141,7 +141,7 @@ const skillCategories = [
         ]
     },
     {
-        title: '',
+        title: 'Wetenschap',
         icon: Laptop,
         skills: [
             { name: 'Mathematics', level: 100 },
